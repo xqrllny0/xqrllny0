@@ -12,12 +12,7 @@
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cat-sleep-dark.svg"><img src="assets/cat-sleep-light.svg" width="130" alt="Спящий пиксельный кот"></picture></p>
 
-<details>
-<summary>не трогать спящего кота</summary>
-
-Кот проснулся. Ты в этом виноват!!
-
-</details>
+<p align="center"><sub>не трогать спящего кота</sub></p>
 
 <p align="center">
 <a href="https://t.me/xqrllny"><img src="assets/telegram.svg" width="115" height="26" alt="telegram"></a>
