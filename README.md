@@ -10,7 +10,7 @@
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges-dark.svg"><img src="assets/badges-light.svg" width="600" alt="night mode human · work in progress · made with curiosity"></picture></p>
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cat-scene-dark.svg"><img src="assets/cat-scene-light.svg" width="760" alt="Спящий кот с zzz, красный клубок слева, лапка и мерцающие звёзды справа"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cat-scene-dark.svg?v=2"><img src="assets/cat-scene-light.svg?v=2" width="760" alt="Спящий кот с zzz и рассыпанные мерцающие звёздочки"></picture></p>
 
 
 
