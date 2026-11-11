@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/header.svg" width="760" alt="Lee McQueen /godmode — a little chaos, a little infinity"></p>
+<p align="center"><img src="assets/header.svg?v=2" width="760" alt="Lee McQueen /godmode — a little chaos, a little infinity"></p>
 
 <p align="center"><img src="assets/gojo-banner.gif" width="520" alt="Сатору Годжо"></p>
 <p align="center"><sub>✦ welcome to my little hideout ✦</sub></p>
@@ -10,7 +10,7 @@
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges-dark.svg"><img src="assets/badges-light.svg" width="600" alt="night mode human · work in progress · made with curiosity"></picture></p>
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cat-sleep-dark.svg"><img src="assets/cat-sleep-light.svg" width="130" alt="Спящий пиксельный кот"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cat-sleep-dark.svg?v=2"><img src="assets/cat-sleep-light.svg?v=2" width="130" alt="Спящий пиксельный кот"></picture></p>
 
 <p align="center"><sub>не трогать спящего кота</sub></p>
 
