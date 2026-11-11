@@ -10,9 +10,9 @@
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges-dark.svg"><img src="assets/badges-light.svg" width="600" alt="night mode human · work in progress · made with curiosity"></picture></p>
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cat-sleep-dark.svg?v=2"><img src="assets/cat-sleep-light.svg?v=2" width="130" alt="Спящий пиксельный кот"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cat-sleep-dark.svg?v=3"><img src="assets/cat-sleep-light.svg?v=3" width="130" alt="Спящий пиксельный кот"></picture></p>
 
-<p align="center"><sub>не трогать спящего кота</sub></p>
+<p align="center">▸ не трогать спящего кота</p>
 
 <p align="center">
 <a href="https://t.me/xqrllny"><img src="assets/telegram.svg" width="115" height="26" alt="telegram"></a>
